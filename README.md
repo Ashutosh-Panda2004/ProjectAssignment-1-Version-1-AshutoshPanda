@@ -74,11 +74,9 @@ To ensure secure handling of sensitive information, create a `.env` file in the 
 
 ```plaintext
 GOOGLE_CLIENT_ID=your_google_client_id
-GOOGLE_CLIENT_SECRET=your_google_client_secret
-MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 PORT=5000
-FRONTEND_URL=http://localhost:3000
+..and other required Environment Variables
 ```
 
 > **Note**: Do not share this file or commit it to version control for security reasons.
