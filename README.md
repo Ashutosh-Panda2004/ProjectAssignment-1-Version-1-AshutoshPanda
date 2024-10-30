@@ -24,7 +24,7 @@ This is a full-stack application designed to help users seamlessly integrate the
 
 ## **Demo and Tutorial**
 
-For a complete walkthrough and video tutorial of this project, check out the [Tutorial Link](#). Here, you’ll find a detailed explanation of the features and step-by-step instructions for setup, customization, and deployment.
+For a complete walkthrough and video tutorial of this project, check out the [Tutorial Link](https://youtu.be/3Y-bAbWuBXQ). Here, you’ll find a detailed explanation of the features and step-by-step instructions for setup, customization, and deployment.
 
 ---
 
@@ -138,24 +138,6 @@ FRONTEND_URL=http://localhost:3000
    - Hover over any event to reveal details, and use the delete option to remove events from your Google Calendar.
 
 > **Tutorial**: For a step-by-step usage guide, refer to the [project tutorial](#) for in-depth explanations and demonstrations.
-
----
-
-## **Screenshots**
-
-> **Note**: Replace the placeholders below with actual screenshots and descriptions to enhance clarity.
-
-1. **Homepage with Google Login Button**:
-   ![Homepage](./frontend/src/assets/screenshots/homepage.png)
-   > Shows the homepage where users can initiate Google login.
-
-2. **Calendar View with Events**:
-   ![Calendar View](./frontend/src/assets/screenshots/calendar-view.png)
-   > Displays the calendar interface with fetched Google Calendar events.
-
-3. **Create Event Popup**:
-   ![Create Event](./frontend/src/assets/screenshots/create-event-popup.png)
-   > The popup window for creating new events on Google Calendar.
 
 ---
 
