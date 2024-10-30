@@ -193,6 +193,5 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-> **Tutorial Link**: A comprehensive tutorial and walkthrough for this project can be found [here](#). This tutorial covers setup, configuration, and usage in detail, along with best practices for managing the Google Calendar API.
+> **Tutorial Link**: A comprehensive tutorial and walkthrough for this project can be found [here](https://youtu.be/3Y-bAbWuBXQ). This tutorial covers setup, configuration, and usage in detail, along with best practices for managing the Google Calendar API.
 
-This `README.md` provides a detailed overview, step-by-step setup, usage instructions, and visual aids. Replace placeholders with actual screenshots and links as appropriate to make the documentation even more user-friendly!
