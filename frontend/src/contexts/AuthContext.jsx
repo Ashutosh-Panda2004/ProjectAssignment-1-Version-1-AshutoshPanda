@@ -1,5 +1,3 @@
-// frontend/src/contexts/AuthContext.jsx
-
 import React, { createContext, useState, useEffect } from 'react';
 
 export const AuthContext = createContext();
@@ -13,7 +11,6 @@ const AuthProvider = ({ children }) => {
     if (tokenFromUrl) {
       setToken(tokenFromUrl);
       localStorage.setItem('token', tokenFromUrl);
-      // Remove token from URL
       window.history.replaceState({}, document.title, '/');
     }
   }, []);
