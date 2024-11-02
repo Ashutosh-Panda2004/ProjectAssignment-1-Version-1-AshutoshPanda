@@ -1,26 +1,3 @@
-// // frontend/src/components/Footer.jsx
-
-// import React from 'react';
-
-// const Footer = () => {
-//   return (
-//     <footer className="bg-gray-200 text-center py-4 mt-8">
-//       <p className="text-gray-700">&copy; {new Date().getFullYear()} My Calendar App</p>
-//     </footer>
-//   );
-// };
-
-// export default Footer;
-
-
-
-
-
-
-
-
-
-
 import React from 'react';
 import { Calendar, Mail, Github, Twitter } from 'lucide-react';
 
