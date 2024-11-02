@@ -1,4 +1,3 @@
-// frontend/src/components/EventTable.jsx
 import React from 'react';
 
 const EventTable = ({ events }) => {
