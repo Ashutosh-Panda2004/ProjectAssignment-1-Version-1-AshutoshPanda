@@ -1,5 +1,3 @@
-// frontend/src/components/CreateEventPopup.jsx
-
 import React, { useState } from 'react';
 import axios from 'axios';
 
