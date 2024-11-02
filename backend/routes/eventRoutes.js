@@ -5,7 +5,7 @@ const router = express.Router();
 const eventController = require('../controllers/eventController'); // Ensure the path is correct
 const authMiddleware = require('../middlewares/authMiddleware'); // If you have authentication middleware
 
-// Apply authentication middleware if required
+// More secure Authentication to be applied here ...
 // router.use(authMiddleware.protect); // Uncomment if you have auth middleware
 
 // Route to get events
