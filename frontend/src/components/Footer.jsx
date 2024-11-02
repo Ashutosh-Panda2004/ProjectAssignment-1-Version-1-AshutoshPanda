@@ -59,8 +59,8 @@ const Footer = () => {
               <h3 className="text-white font-semibold">Contact</h3>
               <div className="space-y-2 text-sm text-blue-200/80">
                 <p>support@calendarapp.com</p>
-                <p>+1 (555) 123-4567</p>
-                <p>123 Calendar Street</p>
+                <p>+91 1234567809</p>
+                <p>Fictitious Street</p>
               </div>
             </div>
 
