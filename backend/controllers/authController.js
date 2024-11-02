@@ -1,4 +1,3 @@
-// backend/controllers/authController.js
 const passport = require('passport');
 const jwt = require('jsonwebtoken');
 const dotenv = require('dotenv');
